@@ -20,7 +20,7 @@ docker exec -it mysql-container /bin/bash
 mysql -uroot -p gabs
 
 ### Rodar o script de banco de dados (utilizar o powershell para executar o script, não utilizar o mesmo prompt dos ultimos comandos)
-docker exec -i mysql-container mysql -uroot -p gabs < services/db/script.sql
+docker exec -i mysql-container mysql -uroot -p gabs < service/db/script.sql
 
 
 
