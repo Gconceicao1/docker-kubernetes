@@ -1,5 +1,8 @@
 # docker-kubernetes
-Repositório referente ao Lab de Docker e Kubernetes (IMPACTA)
+Repositório referente ao Lab de Docker e Kubernetes (IMPACTA).
+
+
+
 
 ## Aula 01 - Iniciando Docker
 
